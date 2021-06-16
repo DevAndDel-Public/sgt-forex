@@ -22,7 +22,7 @@ import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 
 /**
  * Date: 14/6/21.
- * Author: Carlos Cuesta - Dev&Del
+ * Author: Dev&Del
  */
 @RequiredArgsConstructor
 @RestController()

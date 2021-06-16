@@ -9,7 +9,7 @@ import static com.devanddel.sgtforex.Constants.COMMISSION_PERCENT;
 
 /**
  * Date: 14/6/21.
- * Author: Carlos Cuesta - Dev&Del
+ * Author: Dev&Del
  */
 @Data
 @Builder

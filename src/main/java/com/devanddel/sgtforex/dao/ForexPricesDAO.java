@@ -23,7 +23,7 @@ import static com.devanddel.sgtforex.Constants.CSV_TIMESTAMP_PATTERN;
 
 /**
  * Date: 14/6/21.
- * Author: Carlos Cuesta - Dev&Del
+ * Author: Dev&Del
  */
 @Component
 @Scope(BeanDefinition.SCOPE_SINGLETON)

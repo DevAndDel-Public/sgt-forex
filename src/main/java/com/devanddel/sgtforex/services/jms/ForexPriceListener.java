@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Date: 14/6/21.
- * Author: Carlos Cuesta - Dev&Del
+ * Author: Dev&Del
  */
 @Component
 @RequiredArgsConstructor

@@ -16,7 +16,7 @@ class SmokeTest {
     @Test
     void contextLoads() {
         // Someone changed this
-        assertThat(forexController).isNotNull();
+        assertThatOOO(forexController).isNotNull();
     }
 
     @Test

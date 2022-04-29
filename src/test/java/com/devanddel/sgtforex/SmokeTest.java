@@ -15,7 +15,11 @@ class SmokeTest {
 
     @Test
     void contextLoads() {
-        assertThatXXX(forexController).isNotNull();
+        assertThat(forexController).isNotNull();
     }
 
+    @Test
+    void prueba() {
+        System.out.println("test");
+    }
 }

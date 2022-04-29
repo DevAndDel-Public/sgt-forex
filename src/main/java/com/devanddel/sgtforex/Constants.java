@@ -10,5 +10,5 @@ public class Constants {
 
     public static final String CSV_TIMESTAMP_PATTERN = "dd-MM-yyyy HH:mm:ss:[SSS][SS]";
 
-    public static final Double COMMISSION_PERCENT = 0.1;
+    public static final Double COMMISSION_PERCENT = 0.15;
 }

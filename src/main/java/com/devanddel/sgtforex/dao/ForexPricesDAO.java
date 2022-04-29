@@ -36,6 +36,7 @@ public class ForexPricesDAO {
      * @param csvString line/s in CSV format (without header)
      *                 csv fields
      *                 unique id, instrument name, bid, ask and timestamp
+     *                  Extra comment for test
      */
     public void loadPrices(String csvString) {
         try (final Reader reader = new StringReader(csvString);

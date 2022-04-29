@@ -19,4 +19,8 @@ class SmokeTest {
         assertThat(forexController).isNotNull();
     }
 
+    @Test
+    void prueba() {
+        System.out.println("test");
+    }
 }
